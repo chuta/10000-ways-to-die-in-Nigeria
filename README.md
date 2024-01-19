@@ -24,3 +24,78 @@ Sample book cover images;
 ![10000 ways](https://github.com/chuta/10000-ways-to-die-in-Nigeria/assets/3313429/219f448c-8e7b-4fbc-9cbe-65131fc85229)
 ![1000 ways jpeg](https://github.com/chuta/10000-ways-to-die-in-Nigeria/assets/3313429/fd3521d9-fdb0-444f-9ee4-5fb0b532c224)
 ![1000 way2](https://github.com/chuta/10000-ways-to-die-in-Nigeria/assets/3313429/963ac5ef-6919-4ddd-a706-233cb59b9a0e)
+
+Terms and Conditions for Contributing to '10,000 Ways to Die in Nigeria'
+
+Submission and Acceptance:
+
+Contributions to '10,000 Ways to Die in Nigeria' must be original, true, and the sole intellectual property of the contributor. By submitting content, contributors confirm that their contribution is their own original work and does not infringe upon the intellectual property rights of any third party.
+Media Proofs:
+
+Contributors must own or have explicit permission to use any media (photos, videos) submitted as proof. By submitting these, contributors grant '10,000 Ways to Die in Nigeria' the right to use them in conjunction with their contribution.
+Use of Contributions:
+
+Contributors grant Chimezie Chuta and associated publishers a royalty-free, perpetual, irrevocable, and non-exclusive license to use, reproduce, modify, publish, translate, distribute, and display the content, in whole or in part, worldwide and to incorporate it in other works, in any form, media, or technology now known or later developed.
+Anonymity and Privacy:
+
+If a contributor requests anonymity, reasonable efforts will be made to ensure their identity is not disclosed. However, contributors must understand that complete anonymity cannot be guaranteed.
+Accuracy and Legality:
+
+Contributors are responsible for the accuracy of their submissions. They must ensure that their contributions do not contain any libelous or unlawful content, or content that may be seen as harassment, invasion of privacy, or incitement to hate or violence.
+Right to Edit:
+
+Chimezie Chuta reserves the right to edit, condense, or reject any contribution. Contributors will be consulted regarding significant edits to their submissions.
+Liability:
+
+Chimezie Chuta will not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of the use or inability to use the contributions.
+No Compensation:
+
+Contributors understand that they will not receive any financial compensation for their submissions, regardless of the use.
+Indemnification:
+
+Contributors agree to indemnify and hold harmless Chimezie Chuta and associated parties from any claim, action, demand, loss, or damages made or incurred by any third party arising out of or relating to the content of their contribution.
+Changes to Terms:
+
+These terms and conditions may be amended at any time. Continued contribution following any such changes constitutes acceptance of the new terms.
+Governing Law:
+
+These terms and conditions are governed by the laws of the Federal Republic of Nigeria and any disputes will be subject to the exclusive jurisdiction of its courts.
+Acknowledgment:
+By submitting a contribution to '10,000 Ways to Die in Nigeria,' contributors acknowledge that they have read, understood, and agree to these terms and conditions.
+
+
+-------------------------------------------------------------------
+Here's a fictional submission that aligns with the procedure and standards for contributing to "10,000 Ways to Die in Nigeria":
+
+Contributor's Full Name: John Doe
+
+Contact Information: johndoe@email.com
+
+Location: Lagos, Nigeria
+
+Contribution Category: Healthcare Crisis
+
+Title/Subject of Contribution: "The Silent Battle: My Family's Fight Against Malaria"
+
+Detailed Description:
+In the sweltering heat of Lagos, my family's battle with malaria began quietly but quickly turned into a nightmare. It started with my younger sister, Ada, who developed a fever that wouldn't subside. Within days, my mother and elder brother were also bedridden, their bodies wracked with chills and fever. The local clinic was understaffed and overcrowded. We waited hours for a diagnosis, only to be told that there were not enough malaria treatment drugs available. My family's struggle is not unique in Nigeria; it's a common tale of suffering in the face of a preventable and treatable disease. 
+Unfortunately, we lost Ada and our family has never been the same thereafter.
+This story is a window into the healthcare crisis that plagues Nigeria, where a simple mosquito bite can mean a death sentence.
+Unfortunately, we lost Ada and our family has never been the same thereafter.
+
+Date of Event/Observation: July 2023
+
+Media Proof Submission:
+[Attached photo of a crowded clinic waiting room, with people seated and some lying on the floor, visibly unwell.]
+
+Media Proof Description:
+This photo was taken in July 2023 at a local clinic in Lagos during one of our visits. It shows the overcrowded conditions and the lack of adequate facilities.
+
+Permission to Use: Yes
+
+Anonymity Request: No
+
+Additional Comments:
+I hope my story brings to light the healthcare challenges many Nigerians face daily and the urgent need for improvement in this sector.
+
+Acknowledgment of Terms: [Checked]
