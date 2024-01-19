@@ -18,3 +18,9 @@ The book does not only dwell on the challenges but also shines a light on storie
 Intended to be a collaborative effort, "10,000 Ways to Die in Nigeria" will be developed using a GitHub repository, allowing experts, researchers, journalists, and everyday citizens to contribute their perspectives and stories. This approach not only democratizes the narrative but also ensures a rich, diverse, and authentic compilation of experiences and insights.
 
 Through this comprehensive exploration, the book aims to provide a platform for dialogue, awareness, and possibly, the initiation of change, making it a must-read for policymakers, scholars, and anyone interested in the complex tapestry that is Nigeria.
+
+Sample book cover images;
+
+![10000 ways](https://github.com/chuta/10000-ways-to-die-in-Nigeria/assets/3313429/219f448c-8e7b-4fbc-9cbe-65131fc85229)
+![1000 ways jpeg](https://github.com/chuta/10000-ways-to-die-in-Nigeria/assets/3313429/fd3521d9-fdb0-444f-9ee4-5fb0b532c224)
+![1000 way2](https://github.com/chuta/10000-ways-to-die-in-Nigeria/assets/3313429/963ac5ef-6919-4ddd-a706-233cb59b9a0e)
